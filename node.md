@@ -20,10 +20,10 @@
 # Como acessar a biblioteca do NODEJS
  - module.exports = variavel
 
-![](soma.PNG) 
-![](sub.PNG) 
-![](multi.PNG) 
-![](calc.PNG)
+![](/img/soma.PNG) 
+![](/img/sub.PNG) 
+![](/img/multi.PNG) 
+![](/img/calc.PNG)
 
 - Para acessar vc cria uma nova variavel e usa o require como a imagem acima.
 
